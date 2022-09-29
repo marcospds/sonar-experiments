@@ -18,4 +18,4 @@ Este exemplo demonstra como gerar cobertura de código para testes executados po
 - Links que me levaram até aqui (_Links that took me here_):
   - https://blog.sandra-parsick.de/2021/05/31/how-to-measure-test-coverage-in-invoker-tests-with-jacoco/
   - https://stackoverflow.com/questions/15141915/running-code-coverage-with-cobertura-and-jacoco
-  - https://github.com/Godin/sonar-experiments/tree/master/jacoco-examples/maven-invoker-plugin-example
+  - https://github.com/Godin/sonar-experiments/tree/master/jacoco-examples/maven-invoker-plugin-example (Thx @Godin!)
