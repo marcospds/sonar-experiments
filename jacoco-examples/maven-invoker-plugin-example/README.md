@@ -1,4 +1,4 @@
-This example demonstrates how to collect code coverage by tests, which executed by [maven-invoker-plugin](http://maven.apache.org/plugins/maven-invoker-plugin/).
+Este exemplo demonstra como gerar cobertura de código para testes executados por [maven-invoker-plugin](http://maven.apache.org/plugins/maven-invoker-plugin/) (_This example demonstrates how to collect code coverage by tests, which executed by maven-invoker-plugin_).
 
 1.  Build project and execute all tests:
 
